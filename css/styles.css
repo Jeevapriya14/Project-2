@@ -1,0 +1,21 @@
+header{
+    margin:0;
+
+}
+ul{
+    background-color: black;
+    padding: 10px;
+}
+ul li{
+    display: inline;
+    margin-right:200px;
+   
+
+    
+}
+ul li a{
+    text-decoration:none;
+    color:white;
+    font-size: 30px;
+}
+
